@@ -1,6 +1,5 @@
 # hello-world
 
-<button>NEW BUTTON</button>
 First project repository
 
 
