@@ -1,5 +1,5 @@
 # hello-world
 First project repository
 
-I'm learning to code
+First try on Github
 Commit : add description
